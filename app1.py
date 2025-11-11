@@ -10,7 +10,7 @@ from PIL import Image
 try:
     # --- THIS IS THE CHANGE ---
     # Paste your API Key directly into this string
-    YOUR_API_KEY = "AIzaSyAbupiR6hV145X5OC5iz5M2yMQKlMYZYIc"
+    YOUR_API_KEY = "Your_API_Key"
     
     # Configure the client with the hardcoded key
     genai.configure(api_key=YOUR_API_KEY)
@@ -70,4 +70,5 @@ def predict_esp():
 if __name__ == '__main__':
     # Run on 0.0.0.0 to make the server accessible from any device on your network
     app.run(host='0.0.0.0', port=5000, debug=True)
+
 
