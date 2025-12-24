@@ -1,13 +1,9 @@
-# AI-Powered-Interactive-Learning-Book
+# 🎓 AI-Powered-Interactive-Learning-Book
 
-# 🎓 AI-Powered Assistive Learning Assistant
-
-![Project Status](https://img.shields.io/badge/Status-Prototype-green)
-![Competition](https://img.shields.io/badge/Competition-DIPEX_2026-blue)
 ![Tech Stack](https://img.shields.io/badge/IoT-ESP32%20%7C%20Gemini%20AI%20%7C%20Flask-orange)
 
 ## 📖 Overview
-The **AI-Powered Assistive Learning Assistant** is a dual-node IoT device designed to help **visually impaired students** and **early learners** interact with the physical world independently. 
+The **AI-Powered-Interactive-Learning-Book** is a dual-node IoT device designed to help **visually impaired students** and **early learners** interact with the physical world independently. 
 
 Unlike traditional static tools, this system uses **Generative AI (Google Gemini Pro Vision)** to "see" and describe objects in real-time, alongside an **RFID-based tactile learning mode** for structured lessons.
 
